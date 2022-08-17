@@ -69,7 +69,7 @@ section {
     text-decoration: none;
     color: var(--clr-text, #fff);
     font-weight: 700;
-    text-transform: uppercase;
+    /* text-transform: uppercase;*/
     font-size: 1.125rem;
     padding: .5em 1.25em;
     background: var(--clr-accent, blue);
