@@ -487,7 +487,15 @@ h1{
 
 /* Footer Styling */
 
-
+.section__style{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #343F4F;
+    
+}
 
 .wrapper{
 
